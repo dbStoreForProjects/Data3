@@ -1,0 +1,119 @@
+{
+  "trustedStores": [
+    {
+      "storeName": "Amazen Corp",
+      "info": "A long established fact that a who looking at its layout.",
+      "image": "./assets/images/brands/brand1.png"
+    },
+    {
+      "storeName": "Megan Books",
+      "info": "A long established fact that a who looking at its layout.",
+      "image": "./assets/images/brands/brand2.png"
+    },
+    {
+      "storeName": "Los Books",
+      "info": "A long established fact that a who looking at its layout.",
+      "image": "./assets/images/brands/brand3.png"
+    },
+    {
+      "storeName": "Urban Lib",
+      "info": "A long established fact that a who looking at its layout.",
+      "image": "./assets/images/brands/brand4.png"
+    }
+  ],
+  "reasons": [
+    {
+      "id": "01",
+      "content": "Use HDFS & Map Reduce for storing & analyzing data at scale."
+    },
+    {
+      "id": "02",
+      "content": "Consume streaming data using Spark Streaming, Flink, and Storm."
+    },
+    {
+      "id": "03",
+      "content": "Choose an appropriate data storage technology for your application"
+    },
+    {
+      "id": "04",
+      "content": "Analyze non-relational data using HBase, Cassandra, and MongoDB."
+    }
+  ],
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Chapter- 01 Get Started Intro",
+      "content": "Making this the first true value generator on the Internet. It of over 200 Latin words, combined with a handful.",
+      "pages": "85 pages",
+      "length": "1 Hour 15 mins"
+    },
+    {
+      "id": 2,
+      "title": "Chapter- 02 Create a Massive Content",
+      "content": "Making this the first true value generator on the Internet. It of over 200 Latin words, combined with a handful.",
+      "pages": "120 pages",
+      "length": "1 Hour 40 mins"
+    },
+    {
+      "id": 3,
+      "title": "Chapter- 03 Maintaining the Creative Arcs",
+      "content": "Making this the first true value generator on the Internet. It of over 200 Latin words, combined with a handful.",
+      "pages": "65 pages",
+      "length": "45 mins"
+    },
+    {
+      "id": 4,
+      "title": "Chapter- 04 The Conclusion",
+      "content": "Making this the first true value generator on the Internet. It of over 200 Latin words, combined with a handful.",
+      "pages": "285 pages",
+      "length": "2 Hour 25 mins"
+    }
+  ],
+  "reviews": [
+    {
+      "title": "What Readers Say About the Book",
+      "text": "If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators.",
+      "ratingOverall": "4.8/5",
+      "review": [
+        {
+          "id": 1,
+          "username": "Martin Philips",
+          "rate": "4.5",
+          "spotlightSentence": "“ Awesome Impact ”",
+          "content": "All the Lorem Ipsum generators on the Internet tend to repeat willings predefined chunks value.",
+          "image": "./assets/images/people/pp1.png"
+        },
+        {
+          "id": 2,
+          "username": "James Anderson",
+          "rate": "4.5",
+          "spotlightSentence": "“ Mind Blowing Words ”",
+          "content": "All the Lorem Ipsum generators on the Internet tend to repeat willings predefined chunks value.",
+          "image": "./assets/images/people/pp2.png"
+        },
+        {
+          "id": 3,
+          "username": "Christina Louis",
+          "rate": "4.00",
+          "spotlightSentence": "“ Great Books Collections ”",
+          "content": "All the Lorem Ipsum generators on the Internet tend to repeat willings predefined chunks value.",
+          "image": "./assets/images/people/pp3.png"
+        }
+      ]
+    }
+  ],
+  "detailsBanner": [
+    {
+      "title": "Secure Payments",
+      "content": "There are many variations of passages of alteration in some form."
+    },
+    {
+      "title": "Free Shipping",
+      "content": "There are many variations of passages of alteration in some form."
+    },
+    {
+      "title": "100% Satisfactions",
+      "content": "There are many variations of passages of alteration in some form."
+    }
+  ]
+}
